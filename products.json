@@ -54,5 +54,19 @@
         "image": "tesla-roadster.jpg",
         "description": "Best sports car in the World",
         "price": 249999.99
+    },
+    {
+        "id": "9",
+        "title": "Japan_Coast_Guard_AS332_Super_Puma",
+        "image": "Japan_Coast_Guard_AS332_Super_Puma.jpg",
+        "description": "Super Puma",
+        "price": 100000000
+    },
+    {
+        "id": "10",
+        "title": "Chieftain_Tank",
+        "image": "Chieftain_Tank.jpg",
+        "description": "Chieftain Tank",
+        "price": 1000000000
     }
 ]
